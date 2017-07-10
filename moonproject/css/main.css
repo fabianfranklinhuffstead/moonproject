@@ -1,0 +1,59 @@
+/*For mobile screen sizes*/
+@media screen and (max-width: 600px) {
+    html {
+        font-size: .5em;
+    }
+}
+
+html{
+    height: 100%;
+}
+
+p{
+    text-align: left;
+}
+
+button{
+    background: #dddddd;
+    padding: 2% 5% 2% 5%;
+    border: none;
+}
+
+button:hover{
+    background: #cccccc;
+}
+
+.container{
+    background-color: #000000;
+    width: 100%;
+    height: 100%;
+    display: flex;
+} 
+
+.moon{
+    position: absolute;
+    top: 10%;
+    right: 12.5%;
+    background: #fafafa;
+    border-radius: 50%;
+    width: 3.6cm;
+    height: 3.6cm;
+    -webkit-transition: width 1s, height 1s; 
+    transition: width 1s, height 1s;
+    transition-timing-function: ease-in-out;
+}
+
+.popupstyle{
+    position: initial;
+    margin: auto;
+    background: #ffffff;
+    border: 10px solid #dddddd;
+    border-radius: 0%;
+    text-align: center;
+    overflow: scroll;
+    color: #333333;
+    font-family: helvetica neue, 'sans-serif';
+    width: 40%;
+    height: 40%;
+    padding: 2%;
+}
