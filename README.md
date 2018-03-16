@@ -1,5 +1,5 @@
 # moonproject
-a HTML5, CSS3 &amp; pure JS transition popup solution no jquuery
+a HTML5, CSS3 &amp; pure JS transition popup solution no jquery
 
 <h1>Moon Project</h1>
 <p>A solution in HTML5, CSS3 titled most appropriate Moon Project. </p>
