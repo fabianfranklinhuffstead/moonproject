@@ -12,4 +12,4 @@ a HTML5, CSS3 &amp; pure JS transition popup solution no jquery
 <li>The moon should always be positioned on the right side of the viewport about 1/4 of the screen. And 1/5 from the top of the viewport.</li>
 <li>When the moon is clicked, the moon will be enlarged and gradually morphing into a rectangular box that is positioned in the vertical and horizontal center of the viewport (middle of the screen) with an explaination of "how did you calculate the diameter of the moon" in it. If there is too much text to display, a scrollbar is allowed.</li>
 </ul>
-<p>Please contact for fixes, changes further instructions</p>
+<p>Please contact for fixes, changes further instructions.</p>
