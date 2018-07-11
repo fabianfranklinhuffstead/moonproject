@@ -2,7 +2,7 @@
 a HTML5, CSS3 &amp; pure JS transition popup solution no jquery.
 
 <h1>Moon Project</h1>
-<p>A simple solution in HTML5, CSS3 titled most appropriate Moon Project. </p>
+<p>A simple solution in HTML5, CSS3 titled most appropriate Moon Project. 🌑</p>
 
 <h2>The task:</h2>
 <ul>
